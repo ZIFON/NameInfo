@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"TranslateText"
+	{
+		"ru" 	"{RED}Steam: {BLUE}https://steamcommunity.com/profiles/76561198838988591\n{RED}Discord: {GREEN}ZIFON#5172\n{RED}Github: {LIGHTPURPLE}https://github.com/ZIFON"
+		"en" 	"{RED}Steam: {BLUE}https://steamcommunity.com/profiles/76561198838988591\n{RED}Discord: {GREEN}ZIFON#5172\n{RED}Github: {LIGHTPURPLE}https://github.com/ZIFON"
+	}
+}
