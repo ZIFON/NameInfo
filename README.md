@@ -1,6 +1,7 @@
 # NameInfo
 this plugin allows players to conveniently contact project administrators using the **!info** command unknown
-![unknown](https://user-images.githubusercontent.com/72163193/158573443-381bb08b-cd61-4baf-8c01-131e4290da40.png)
+
+![Без имени](https://user-images.githubusercontent.com/72163193/158906615-63deba42-012e-4e83-a1a7-f704d4999d51.png)
 ___
 You can change the text in **nameinfo.phrases.txt**
 ### **also change colors:**
