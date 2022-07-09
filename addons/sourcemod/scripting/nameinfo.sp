@@ -4,7 +4,7 @@
 public Plugin myinfo =
 {
     name =  "NameInfo" ,
-    author =  "ZIFON & FIVE" ,
+    author =  "ZIFON" ,
     description =  "https://steamcommunity.com/profiles/76561198838988591/" ,
     version =  "1.0" ,
     url =  "https://steamcommunity.com/profiles/76561198838988591/"
